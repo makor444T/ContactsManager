@@ -1,4 +1,4 @@
-package com.example.contactmanager.config;
+package com.example.contactmanager.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
